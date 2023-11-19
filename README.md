@@ -1,4 +1,3 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 
 
 <h1 align="center">Hi 👋, I'm Ahmetcan</h1>
